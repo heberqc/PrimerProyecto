@@ -15,7 +15,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/saludo"
-        android:layout_marginTop="@dimen/margin_top_textview"
+        android:layout_marginTop="@dimen/margin_top_textview_land"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:id="@+id/textView"
@@ -26,7 +26,7 @@
         android:text="@string/entrar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="@dimen/margin_top_button"
+        android:layout_marginTop="@dimen/margin_top_button_land"
         android:id="@+id/button"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true" />
