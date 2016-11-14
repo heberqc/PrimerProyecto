@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Primer</string>
+    <string name="entrar">Enter</string>
+    <string name="saludo">Welcome</string>
+</resources>
